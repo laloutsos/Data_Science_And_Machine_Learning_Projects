@@ -9,8 +9,8 @@ created for educational purposes and hands-on experimentation.
 
 | # | Project | Description | Notes |
 |---|---------|-------------|-------|
-| ● | Space Titanic Survival Prediction | Built a complete machine learning workflow for predicting whether passengers were transported to another dimension after a spacetime anomaly. Included data preprocessing, feature engineering, Random Forest training with TensorFlow Decision Forests, and CSV submission generation. | See [folder](SpaceTitanic) for full code, notebook, and execution examples |
-| ● | Titanic Survival Prediction | Developed a full end-to-end machine learning pipeline for predicting passenger survival on the Titanic dataset, including feature engineering, preprocessing, Random Forest classification, and hyperparameter tuning. | See [folder](TitanicSurvivalPrediction) for full code, notebook, and execution examples |
+| ● | Space Titanic Survival Prediction | Built a complete machine learning workflow for predicting whether passengers were transported to another dimension after a spacetime anomaly. Included data preprocessing, feature engineering, Random Forest training with TensorFlow Decision Forests, and CSV submission generation. | See [folder](Space_Titanic) for full code, notebook, and execution examples |
+| ● | Titanic Survival Prediction | Developed a full end-to-end machine learning pipeline for predicting passenger survival on the Titanic dataset, including feature engineering, preprocessing, Random Forest classification, and hyperparameter tuning. | See [folder](Titanic_Machine_Learning_from_Disaster) for full code, notebook, and execution examples |
 
 ---
 
